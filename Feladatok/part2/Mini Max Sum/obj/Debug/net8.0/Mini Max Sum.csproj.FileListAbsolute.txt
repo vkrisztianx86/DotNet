@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\bin\Debug\net8.0\Mini Max Sum.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\bin\Debug\net8.0\Mini Max Sum.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\bin\Debug\net8.0\Mini Max Sum.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\bin\Debug\net8.0\Mini Max Sum.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\bin\Debug\net8.0\Mini Max Sum.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\refint\Mini Max Sum.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\Mini Max Sum.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Mini Max Sum\obj\Debug\net8.0\ref\Mini Max Sum.dll

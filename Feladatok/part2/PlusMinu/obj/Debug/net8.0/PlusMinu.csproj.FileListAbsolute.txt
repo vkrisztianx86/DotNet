@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\bin\Debug\net8.0\PlusMinu.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\bin\Debug\net8.0\PlusMinu.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\bin\Debug\net8.0\PlusMinu.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\bin\Debug\net8.0\PlusMinu.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\bin\Debug\net8.0\PlusMinu.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\refint\PlusMinu.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\PlusMinu.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\PlusMinu\obj\Debug\net8.0\ref\PlusMinu.dll

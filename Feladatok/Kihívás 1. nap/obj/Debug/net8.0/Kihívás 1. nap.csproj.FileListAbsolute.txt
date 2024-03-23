@@ -1,0 +1,14 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\bin\Debug\net8.0\Kihívás 1. nap.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\bin\Debug\net8.0\Kihívás 1. nap.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\bin\Debug\net8.0\Kihívás 1. nap.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\bin\Debug\net8.0\Kihívás 1. nap.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\bin\Debug\net8.0\Kihívás 1. nap.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\refint\Kihívás 1. nap.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\Kihívás 1. nap.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Kihívás 1. nap\obj\Debug\net8.0\ref\Kihívás 1. nap.dll

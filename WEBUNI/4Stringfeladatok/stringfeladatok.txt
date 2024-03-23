@@ -1,0 +1,43 @@
+﻿lehetőségek:
+
+1 számjegyek cseréje úgy, hogy az eredeti számhoz adva 9-et kapjunk (pl. 1->8; 5->4; 0->9...)
+
+2 ó, ió, ció, áció
+
+3 minden magánhangzó megduplázása
+
+4 magánhangzók cseréje *karakterre
+
+5 tetszőleges szövegrészlet kivágása (X.helytől Y hosszon) saját eljárással, hibás x és y esetén hibaüzenettel
+
+6 szöveg titkosítása: minden karakterhez hozzá adunk ASCII szerint X értéket (X=1 - nél a helyett b, b helyett c stb.)
+
+7 minden 2.és 3.betű új szövegbe
+
+8 szóközök kicserélés _ jelre
+
+9 minden karakter megkettőzése: abc->aabbcc
+
+10 minden 3.és 5.betű cseréje * -ra
+
+11 kisbetűből nagybetű és nagybetűből kisbetű(pl.AbC->aBc)
+
+12 hullámos szöveg (pl. alma -> AlMa)
+
+13 páros és páratlan betűk cseréje(abcd->badc)
+
+14 minden számjegy megduplázása
+
+15 magánhangzók cseréje nagybetűsre(pl.abcde->AbcdE)
+
+16 Ékezettelenítő (á->a ö,ő->o)
+
+17 számok cseréje betűre 1->a, 2->b stb.
+
+18 magánhangzók megszámlálása(angol abc)
+
+19 szöveg visszafelé
+
+20 minden mássalhangzó megduplázása
+
+21 számok kiválogatása szövegből(pl.a1b2c3-> 123)

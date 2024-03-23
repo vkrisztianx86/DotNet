@@ -1,0 +1,30 @@
+C:\Demo\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.exe
+C:\Demo\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.deps.json
+C:\Demo\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.runtimeconfig.json
+C:\Demo\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.dll
+C:\Demo\KorKerTer\KorKerTer\bin\Debug\net6.0\ref\KorKerTer.dll
+C:\Demo\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.pdb
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.csproj.AssemblyReference.cache
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.AssemblyInfoInputs.cache
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.AssemblyInfo.cs
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.csproj.CoreCompileInputs.cache
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.dll
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\ref\KorKerTer.dll
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.pdb
+C:\Demo\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.csproj.AssemblyReference.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\refint\KorKerTer.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\5KorKerTer\KorKerTer\KorKerTer\obj\Debug\net6.0\ref\KorKerTer.dll

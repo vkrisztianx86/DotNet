@@ -1,0 +1,17 @@
+C:\Demo\Alapfogalmak\WinBetuCiklus\bin\Debug\net6.0-windows\WinBetuCiklus.exe
+C:\Demo\Alapfogalmak\WinBetuCiklus\bin\Debug\net6.0-windows\WinBetuCiklus.deps.json
+C:\Demo\Alapfogalmak\WinBetuCiklus\bin\Debug\net6.0-windows\WinBetuCiklus.runtimeconfig.json
+C:\Demo\Alapfogalmak\WinBetuCiklus\bin\Debug\net6.0-windows\WinBetuCiklus.dll
+C:\Demo\Alapfogalmak\WinBetuCiklus\bin\Debug\net6.0-windows\ref\WinBetuCiklus.dll
+C:\Demo\Alapfogalmak\WinBetuCiklus\bin\Debug\net6.0-windows\WinBetuCiklus.pdb
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.csproj.AssemblyReference.cache
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.Form1.resources
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.csproj.GenerateResource.cache
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.AssemblyInfoInputs.cache
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.AssemblyInfo.cs
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.csproj.CoreCompileInputs.cache
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.dll
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\ref\WinBetuCiklus.dll
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.pdb
+C:\Demo\Alapfogalmak\WinBetuCiklus\obj\Debug\net6.0-windows\WinBetuCiklus.genruntimeconfig.cache

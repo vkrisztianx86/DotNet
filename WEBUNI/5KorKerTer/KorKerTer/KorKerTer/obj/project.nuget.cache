@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MFFEl/pjaSafBt9de6rLM6ZAmg4QgeCNTU/kB5o+JthIMzWhDJ5ta6D5pJU5oRe9RAPiHCfCmMyzHuplMP/Vnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\WEBUNI\\5KorKerTer\\KorKerTer\\KorKerTer\\KorKerTer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

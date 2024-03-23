@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\bin\Debug\net8.0\Hackerrank.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\bin\Debug\net8.0\Hackerrank.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\bin\Debug\net8.0\Hackerrank.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\bin\Debug\net8.0\Hackerrank.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\bin\Debug\net8.0\Hackerrank.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\refint\Hackerrank.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\Hackerrank.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Hackerrank\obj\Debug\net8.0\ref\Hackerrank.dll

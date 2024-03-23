@@ -1,0 +1,7 @@
+C:\Demo\HelloVilagok\HVFW\bin\Debug\HVFW.exe.config
+C:\Demo\HelloVilagok\HVFW\bin\Debug\HVFW.exe
+C:\Demo\HelloVilagok\HVFW\bin\Debug\HVFW.pdb
+C:\Demo\HelloVilagok\HVFW\obj\Debug\HVFW.csproj.SuggestedBindingRedirects.cache
+C:\Demo\HelloVilagok\HVFW\obj\Debug\HVFW.csproj.CoreCompileInputs.cache
+C:\Demo\HelloVilagok\HVFW\obj\Debug\HVFW.exe
+C:\Demo\HelloVilagok\HVFW\obj\Debug\HVFW.pdb

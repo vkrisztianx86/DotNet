@@ -1,0 +1,14 @@
+C:\Demo\HelloVilagok\Hv6\bin\Debug\net6.0\Hv6.exe
+C:\Demo\HelloVilagok\Hv6\bin\Debug\net6.0\Hv6.deps.json
+C:\Demo\HelloVilagok\Hv6\bin\Debug\net6.0\Hv6.runtimeconfig.json
+C:\Demo\HelloVilagok\Hv6\bin\Debug\net6.0\Hv6.dll
+C:\Demo\HelloVilagok\Hv6\bin\Debug\net6.0\ref\Hv6.dll
+C:\Demo\HelloVilagok\Hv6\bin\Debug\net6.0\Hv6.pdb
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.AssemblyInfoInputs.cache
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.AssemblyInfo.cs
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.csproj.CoreCompileInputs.cache
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.dll
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\ref\Hv6.dll
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.pdb
+C:\Demo\HelloVilagok\Hv6\obj\Debug\net6.0\Hv6.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Demo\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.exe
+C:\Demo\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.deps.json
+C:\Demo\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.runtimeconfig.json
+C:\Demo\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.dll
+C:\Demo\Matekozas\Matekozas\bin\Debug\net6.0\ref\Matekozas.dll
+C:\Demo\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.pdb
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.csproj.AssemblyReference.cache
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.AssemblyInfoInputs.cache
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.AssemblyInfo.cs
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.csproj.CoreCompileInputs.cache
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.dll
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\ref\Matekozas.dll
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.pdb
+C:\Demo\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\Matekozas.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.csproj.AssemblyReference.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\refint\Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\Matekozas.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\ref\Matekozas.dll

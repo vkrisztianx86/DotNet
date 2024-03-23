@@ -1,0 +1,14 @@
+C:\Demo\HelloVilagok\HVSzines\bin\Debug\net6.0\HVSzines.exe
+C:\Demo\HelloVilagok\HVSzines\bin\Debug\net6.0\HVSzines.deps.json
+C:\Demo\HelloVilagok\HVSzines\bin\Debug\net6.0\HVSzines.runtimeconfig.json
+C:\Demo\HelloVilagok\HVSzines\bin\Debug\net6.0\HVSzines.dll
+C:\Demo\HelloVilagok\HVSzines\bin\Debug\net6.0\ref\HVSzines.dll
+C:\Demo\HelloVilagok\HVSzines\bin\Debug\net6.0\HVSzines.pdb
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.AssemblyInfoInputs.cache
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.AssemblyInfo.cs
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.csproj.CoreCompileInputs.cache
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.dll
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\ref\HVSzines.dll
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.pdb
+C:\Demo\HelloVilagok\HVSzines\obj\Debug\net6.0\HVSzines.genruntimeconfig.cache

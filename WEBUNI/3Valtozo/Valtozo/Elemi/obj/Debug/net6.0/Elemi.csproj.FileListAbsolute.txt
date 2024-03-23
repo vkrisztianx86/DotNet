@@ -1,0 +1,15 @@
+C:\Demo\Valtozo\Elemi\bin\Debug\net6.0\Elemi.exe
+C:\Demo\Valtozo\Elemi\bin\Debug\net6.0\Elemi.deps.json
+C:\Demo\Valtozo\Elemi\bin\Debug\net6.0\Elemi.runtimeconfig.json
+C:\Demo\Valtozo\Elemi\bin\Debug\net6.0\Elemi.dll
+C:\Demo\Valtozo\Elemi\bin\Debug\net6.0\ref\Elemi.dll
+C:\Demo\Valtozo\Elemi\bin\Debug\net6.0\Elemi.pdb
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.csproj.AssemblyReference.cache
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.AssemblyInfoInputs.cache
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.AssemblyInfo.cs
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.csproj.CoreCompileInputs.cache
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.dll
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\ref\Elemi.dll
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.pdb
+C:\Demo\Valtozo\Elemi\obj\Debug\net6.0\Elemi.genruntimeconfig.cache

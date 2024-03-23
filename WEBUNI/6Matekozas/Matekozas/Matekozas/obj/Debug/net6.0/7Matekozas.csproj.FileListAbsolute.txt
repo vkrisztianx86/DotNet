@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\7Matekozas.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\7Matekozas.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\7Matekozas.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\7Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\bin\Debug\net6.0\7Matekozas.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\refint\7Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\ref\7Matekozas.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\WEBUNI\7Matekozas\Matekozas\Matekozas\obj\Debug\net6.0\7Matekozas.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Demo\Valtozo\Tarolok\bin\Debug\net6.0\Tarolok.exe
+C:\Demo\Valtozo\Tarolok\bin\Debug\net6.0\Tarolok.deps.json
+C:\Demo\Valtozo\Tarolok\bin\Debug\net6.0\Tarolok.runtimeconfig.json
+C:\Demo\Valtozo\Tarolok\bin\Debug\net6.0\Tarolok.dll
+C:\Demo\Valtozo\Tarolok\bin\Debug\net6.0\ref\Tarolok.dll
+C:\Demo\Valtozo\Tarolok\bin\Debug\net6.0\Tarolok.pdb
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.AssemblyInfoInputs.cache
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.AssemblyInfo.cs
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.csproj.CoreCompileInputs.cache
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.dll
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\ref\Tarolok.dll
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.pdb
+C:\Demo\Valtozo\Tarolok\obj\Debug\net6.0\Tarolok.genruntimeconfig.cache

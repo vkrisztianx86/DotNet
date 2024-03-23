@@ -1,0 +1,16 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\bin\Debug\net8.0-windows\WinFormsAppKihivas3.nap.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\bin\Debug\net8.0-windows\WinFormsAppKihivas3.nap.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\bin\Debug\net8.0-windows\WinFormsAppKihivas3.nap.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\bin\Debug\net8.0-windows\WinFormsAppKihivas3.nap.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\bin\Debug\net8.0-windows\WinFormsAppKihivas3.nap.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.Form1.resources
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.csproj.GenerateResource.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\refint\WinFormsAppKihivas3.nap.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\WinFormsAppKihivas3.nap.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\WinFormsAppKihivas3.nap\obj\Debug\net8.0-windows\ref\WinFormsAppKihivas3.nap.dll

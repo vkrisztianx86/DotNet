@@ -1,0 +1,14 @@
+C:\Demo\Elagazasok\TobbszorosElagazas\bin\Debug\net6.0\TobbszorosElagazas.exe
+C:\Demo\Elagazasok\TobbszorosElagazas\bin\Debug\net6.0\TobbszorosElagazas.deps.json
+C:\Demo\Elagazasok\TobbszorosElagazas\bin\Debug\net6.0\TobbszorosElagazas.runtimeconfig.json
+C:\Demo\Elagazasok\TobbszorosElagazas\bin\Debug\net6.0\TobbszorosElagazas.dll
+C:\Demo\Elagazasok\TobbszorosElagazas\bin\Debug\net6.0\ref\TobbszorosElagazas.dll
+C:\Demo\Elagazasok\TobbszorosElagazas\bin\Debug\net6.0\TobbszorosElagazas.pdb
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.AssemblyInfoInputs.cache
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.AssemblyInfo.cs
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.csproj.CoreCompileInputs.cache
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.dll
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\ref\TobbszorosElagazas.dll
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.pdb
+C:\Demo\Elagazasok\TobbszorosElagazas\obj\Debug\net6.0\TobbszorosElagazas.genruntimeconfig.cache

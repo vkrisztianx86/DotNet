@@ -1,0 +1,15 @@
+C:\Demo\Alapfogalmak\Ciklusok\bin\Debug\net6.0\Ciklusok.exe
+C:\Demo\Alapfogalmak\Ciklusok\bin\Debug\net6.0\Ciklusok.deps.json
+C:\Demo\Alapfogalmak\Ciklusok\bin\Debug\net6.0\Ciklusok.runtimeconfig.json
+C:\Demo\Alapfogalmak\Ciklusok\bin\Debug\net6.0\Ciklusok.dll
+C:\Demo\Alapfogalmak\Ciklusok\bin\Debug\net6.0\ref\Ciklusok.dll
+C:\Demo\Alapfogalmak\Ciklusok\bin\Debug\net6.0\Ciklusok.pdb
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.csproj.AssemblyReference.cache
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.AssemblyInfoInputs.cache
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.AssemblyInfo.cs
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.csproj.CoreCompileInputs.cache
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.dll
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\ref\Ciklusok.dll
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.pdb
+C:\Demo\Alapfogalmak\Ciklusok\obj\Debug\net6.0\Ciklusok.genruntimeconfig.cache

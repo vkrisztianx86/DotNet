@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\bin\Debug\net8.0\part1.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\bin\Debug\net8.0\part1.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\bin\Debug\net8.0\part1.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\bin\Debug\net8.0\part1.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\bin\Debug\net8.0\part1.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\refint\part1.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\ref\part1.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part1\obj\Debug\net8.0\part1.sourcelink.json

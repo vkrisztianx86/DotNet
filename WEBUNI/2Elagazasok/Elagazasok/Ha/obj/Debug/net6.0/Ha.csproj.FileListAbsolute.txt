@@ -1,0 +1,14 @@
+C:\Demo\Elagazasok\Ha\bin\Debug\net6.0\Ha.exe
+C:\Demo\Elagazasok\Ha\bin\Debug\net6.0\Ha.deps.json
+C:\Demo\Elagazasok\Ha\bin\Debug\net6.0\Ha.runtimeconfig.json
+C:\Demo\Elagazasok\Ha\bin\Debug\net6.0\Ha.dll
+C:\Demo\Elagazasok\Ha\bin\Debug\net6.0\ref\Ha.dll
+C:\Demo\Elagazasok\Ha\bin\Debug\net6.0\Ha.pdb
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.AssemblyInfoInputs.cache
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.AssemblyInfo.cs
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.csproj.CoreCompileInputs.cache
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.dll
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\ref\Ha.dll
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.pdb
+C:\Demo\Elagazasok\Ha\obj\Debug\net6.0\Ha.genruntimeconfig.cache

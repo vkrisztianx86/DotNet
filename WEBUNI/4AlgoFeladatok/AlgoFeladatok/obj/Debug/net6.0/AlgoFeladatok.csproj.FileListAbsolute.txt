@@ -1,0 +1,15 @@
+C:\Demo\AlgoFeladatok\AlgoFeladatok\bin\Debug\net6.0\AlgoFeladatok.exe
+C:\Demo\AlgoFeladatok\AlgoFeladatok\bin\Debug\net6.0\AlgoFeladatok.deps.json
+C:\Demo\AlgoFeladatok\AlgoFeladatok\bin\Debug\net6.0\AlgoFeladatok.runtimeconfig.json
+C:\Demo\AlgoFeladatok\AlgoFeladatok\bin\Debug\net6.0\AlgoFeladatok.dll
+C:\Demo\AlgoFeladatok\AlgoFeladatok\bin\Debug\net6.0\ref\AlgoFeladatok.dll
+C:\Demo\AlgoFeladatok\AlgoFeladatok\bin\Debug\net6.0\AlgoFeladatok.pdb
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.csproj.AssemblyReference.cache
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.AssemblyInfoInputs.cache
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.AssemblyInfo.cs
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.csproj.CoreCompileInputs.cache
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.dll
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\ref\AlgoFeladatok.dll
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.pdb
+C:\Demo\AlgoFeladatok\AlgoFeladatok\obj\Debug\net6.0\AlgoFeladatok.genruntimeconfig.cache
