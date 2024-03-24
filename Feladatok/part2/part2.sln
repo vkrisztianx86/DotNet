@@ -3,18 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank", "Hackerrank\Hackerrank.csproj", "{8DC44618-74CF-4EF5-A209-571D93217794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank", "Hackerrank\Hackerrank.csproj", "{8DC44618-74CF-4EF5-A209-571D93217794}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1797900-04A1-4BC9-94D6-1679203E7003}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinu", "PlusMinu\PlusMinu.csproj", "{01127F0F-2FB9-4530-8A4E-932F6EF53C3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinu", "PlusMinu\PlusMinu.csproj", "{01127F0F-2FB9-4530-8A4E-932F6EF53C3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{2663ADEA-882A-49F5-B8E0-321FF4156825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{2663ADEA-882A-49F5-B8E0-321FF4156825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Max Sum", "Mini Max Sum\Mini Max Sum.csproj", "{259D8B3F-84BA-4A61-870C-E32BEF11D9ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini Max Sum", "Mini Max Sum\Mini Max Sum.csproj", "{259D8B3F-84BA-4A61-870C-E32BEF11D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-very-big-sum", "A-very-big-sum\A-very-big-sum.csproj", "{05388DA2-8F42-440D-8A2C-730CF88516A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{259D8B3F-84BA-4A61-870C-E32BEF11D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{259D8B3F-84BA-4A61-870C-E32BEF11D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{259D8B3F-84BA-4A61-870C-E32BEF11D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05388DA2-8F42-440D-8A2C-730CF88516A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05388DA2-8F42-440D-8A2C-730CF88516A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05388DA2-8F42-440D-8A2C-730CF88516A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05388DA2-8F42-440D-8A2C-730CF88516A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

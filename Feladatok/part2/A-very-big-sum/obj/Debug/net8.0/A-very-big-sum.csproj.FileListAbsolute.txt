@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\bin\Debug\net8.0\A-very-big-sum.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\bin\Debug\net8.0\A-very-big-sum.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\bin\Debug\net8.0\A-very-big-sum.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\bin\Debug\net8.0\A-very-big-sum.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\bin\Debug\net8.0\A-very-big-sum.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\refint\A-very-big-sum.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\A-very-big-sum.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\A-very-big-sum\obj\Debug\net8.0\ref\A-very-big-sum.dll

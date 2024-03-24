@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Max Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e28a360855f41c2c06696435d23b3280c1a23f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b261fc49057a9bae36914bbd2871dbbbb136fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Max Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Max Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
