@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Birthday-Cake-Candles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99d7e1c8c587a337eb4db92d0998d36baf09ac6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+747341bd7e0badf6773129407e903813a1afb1ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Birthday-Cake-Candles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Birthday-Cake-Candles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
