@@ -24,7 +24,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time Conversion", "Time Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apples and Oranges", "Apples and Oranges\Apples and Oranges.csproj", "{8ABBB40A-8D7C-46F8-B88A-D06C9AE3C8AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Digits", "Find Digits\Find Digits.csproj", "{96288DDC-2EF7-4B26-B2FF-D6C6E9015F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Digits", "Find Digits\Find Digits.csproj", "{96288DDC-2EF7-4B26-B2FF-D6C6E9015F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service-Lane", "Service-Lane\Service-Lane.csproj", "{37E4422A-B67F-49F9-B4AE-97C60577A38D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -68,6 +70,10 @@ Global
 		{96288DDC-2EF7-4B26-B2FF-D6C6E9015F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96288DDC-2EF7-4B26-B2FF-D6C6E9015F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96288DDC-2EF7-4B26-B2FF-D6C6E9015F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E4422A-B67F-49F9-B4AE-97C60577A38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E4422A-B67F-49F9-B4AE-97C60577A38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E4422A-B67F-49F9-B4AE-97C60577A38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E4422A-B67F-49F9-B4AE-97C60577A38D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\bin\Debug\net8.0\Service-Lane.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\bin\Debug\net8.0\Service-Lane.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\bin\Debug\net8.0\Service-Lane.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\bin\Debug\net8.0\Service-Lane.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\bin\Debug\net8.0\Service-Lane.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\refint\Service-Lane.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\Service-Lane.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Service-Lane\obj\Debug\net8.0\ref\Service-Lane.dll
