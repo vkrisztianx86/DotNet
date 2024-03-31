@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\bin\Debug\net8.0\Apples and Oranges.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\bin\Debug\net8.0\Apples and Oranges.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\bin\Debug\net8.0\Apples and Oranges.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\bin\Debug\net8.0\Apples and Oranges.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\bin\Debug\net8.0\Apples and Oranges.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\refint\Apples and Oranges.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\Apples and Oranges.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apples and Oranges\obj\Debug\net8.0\ref\Apples and Oranges.dll

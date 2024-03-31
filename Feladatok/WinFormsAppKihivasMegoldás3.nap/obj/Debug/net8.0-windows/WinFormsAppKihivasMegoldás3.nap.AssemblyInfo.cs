@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppKihivasMegoldás3.nap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e28a360855f41c2c06696435d23b3280c1a23f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fffc305d33e17c59dba2ac989c100ed794afee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppKihivasMegoldás3.nap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppKihivasMegoldás3.nap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

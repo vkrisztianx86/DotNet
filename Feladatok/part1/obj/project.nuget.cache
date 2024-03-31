@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTNow+TPiAt23kJWNaWDfJ/YfpcJnaIBrksZtpcO8W6CHB27GHWDDyu/LTQlih4UuWwyg59WzWPBW4E6XkiO+Q==",
+  "dgSpecHash": "8LrVIHr/lYkYaiqCHkCKViEtBSFv0e+/XN5OlgH1Ib31uY2+jXE0vn3Oy6rcCE8YHAucyul9578LEMBCngkfvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\part1\\AlgoFeladatok.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\vkrisz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\part1\\part1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

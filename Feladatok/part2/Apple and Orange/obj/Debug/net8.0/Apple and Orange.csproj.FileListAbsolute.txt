@@ -1,0 +1,5 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apple and Orange\obj\Debug\net8.0\Apple and Orange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apple and Orange\obj\Debug\net8.0\Apple and Orange.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apple and Orange\obj\Debug\net8.0\Apple and Orange.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apple and Orange\obj\Debug\net8.0\Apple and Orange.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Apple and Orange\obj\Debug\net8.0\Apple and Orange.sourcelink.json

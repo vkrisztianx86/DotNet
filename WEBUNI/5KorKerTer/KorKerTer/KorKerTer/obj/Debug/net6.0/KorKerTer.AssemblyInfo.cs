@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KorKerTer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fffc305d33e17c59dba2ac989c100ed794afee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("KorKerTer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KorKerTer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
