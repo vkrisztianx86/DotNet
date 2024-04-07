@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\bin\Debug\net8.0\Pangrams.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\bin\Debug\net8.0\Pangrams.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\bin\Debug\net8.0\Pangrams.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\bin\Debug\net8.0\Pangrams.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\bin\Debug\net8.0\Pangrams.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\refint\Pangrams.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\Pangrams.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\part2\Pangrams\obj\Debug\net8.0\ref\Pangrams.dll

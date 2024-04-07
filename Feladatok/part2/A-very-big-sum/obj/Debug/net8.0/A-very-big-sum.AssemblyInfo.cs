@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A-very-big-sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+080bcf7f7202bc2b2445cabca1da8e7523b59a90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc0823fee6516620e1b2e2fdb84f0b418c1e2d13")]
 [assembly: System.Reflection.AssemblyProductAttribute("A-very-big-sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A-very-big-sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
