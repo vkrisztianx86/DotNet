@@ -1,0 +1,15 @@
+C:\Demo\Darabolo\Darabolo\bin\Debug\net6.0\Darabolo.exe
+C:\Demo\Darabolo\Darabolo\bin\Debug\net6.0\Darabolo.deps.json
+C:\Demo\Darabolo\Darabolo\bin\Debug\net6.0\Darabolo.runtimeconfig.json
+C:\Demo\Darabolo\Darabolo\bin\Debug\net6.0\Darabolo.dll
+C:\Demo\Darabolo\Darabolo\bin\Debug\net6.0\ref\Darabolo.dll
+C:\Demo\Darabolo\Darabolo\bin\Debug\net6.0\Darabolo.pdb
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.csproj.AssemblyReference.cache
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.AssemblyInfoInputs.cache
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.AssemblyInfo.cs
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.csproj.CoreCompileInputs.cache
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.dll
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\ref\Darabolo.dll
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.pdb
+C:\Demo\Darabolo\Darabolo\obj\Debug\net6.0\Darabolo.genruntimeconfig.cache
