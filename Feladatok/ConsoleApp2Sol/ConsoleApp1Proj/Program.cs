@@ -1,39 +1,22 @@
-﻿Console.WriteLine("Kérem a szöveget!");
-string s = Console.ReadLine();
+﻿using Cutter;
 
-Console.WriteLine("Kérem a darabolási méretet!");
-int size;
-int counter = 0;    
+Slicer sc = new Slicer();
+Slicer sc2 = new Slicer();
 
-while(!int.TryParse(Console.ReadLine(), out size))
+sc.outputter();
+
+if (sc.datarequest())
 {
-    Console.WriteLine("Számot kell írni!");
+    sc.outputter();
 }
 
-
-string[] parts; 
-
-if(s.Length % size == 0)
+if (sc2.datarequest())
 {
-    parts = new string[s.Length / size];
-}
-else
-{
-    parts = new string[s.Length / size + 1];
+    sc2.outputter();
 }
 
-while(s.Length > 0)
+if (sc.Success)
 {
-    if(s.Length <= size)
-    {
-        parts[counter] = s;
-        s = String.Empty;
-    }
-    else
-    {
-        parts[counter] = s.Substring(0, size);
-        s = s.Substring(size);
-    }
-    counter++;  
+    sc.outputter();
 }
 

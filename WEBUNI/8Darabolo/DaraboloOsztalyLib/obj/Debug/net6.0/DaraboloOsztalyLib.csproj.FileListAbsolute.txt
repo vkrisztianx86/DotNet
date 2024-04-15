@@ -1,0 +1,12 @@
+C:\Demo\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.deps.json
+C:\Demo\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.dll
+C:\Demo\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\ref\DaraboloOsztalyLib.dll
+C:\Demo\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.pdb
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.csproj.AssemblyReference.cache
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.AssemblyInfoInputs.cache
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.AssemblyInfo.cs
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.csproj.CoreCompileInputs.cache
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.dll
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\ref\DaraboloOsztalyLib.dll
+C:\Demo\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.pdb

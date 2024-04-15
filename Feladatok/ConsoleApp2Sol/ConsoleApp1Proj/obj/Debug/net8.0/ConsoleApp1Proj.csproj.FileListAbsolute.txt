@@ -13,3 +13,7 @@ C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Pro
 C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\obj\Debug\net8.0\ConsoleApp1Proj.pdb
 C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\obj\Debug\net8.0\ConsoleApp1Proj.genruntimeconfig.cache
 C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\obj\Debug\net8.0\ref\ConsoleApp1Proj.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\bin\Debug\net8.0\Cutter.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\bin\Debug\net8.0\Cutter.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\obj\Debug\net8.0\ConsoleApp1Proj.csproj.AssemblyReference.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp1Proj\obj\Debug\net8.0\ConsoleApp1Proj.csproj.CopyComplete

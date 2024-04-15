@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\bin\Debug\net8.0\ConsoleApp2Proj.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\bin\Debug\net8.0\ConsoleApp2Proj.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\bin\Debug\net8.0\ConsoleApp2Proj.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\bin\Debug\net8.0\ConsoleApp2Proj.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\bin\Debug\net8.0\ConsoleApp2Proj.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\refint\ConsoleApp2Proj.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ConsoleApp2Proj.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\ConsoleApp2Proj\obj\Debug\net8.0\ref\ConsoleApp2Proj.dll

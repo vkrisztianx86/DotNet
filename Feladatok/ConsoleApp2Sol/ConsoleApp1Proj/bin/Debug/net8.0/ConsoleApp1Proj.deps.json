@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ConsoleApp1Proj/1.0.0": {
+        "dependencies": {
+          "Cutter": "1.0.0"
+        },
         "runtime": {
           "ConsoleApp1Proj.dll": {}
+        }
+      },
+      "Cutter/1.0.0": {
+        "runtime": {
+          "Cutter.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleApp1Proj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cutter/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

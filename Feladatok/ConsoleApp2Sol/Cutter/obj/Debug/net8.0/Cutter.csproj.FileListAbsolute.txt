@@ -1,0 +1,12 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\bin\Debug\net8.0\Cutter.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\bin\Debug\net8.0\Cutter.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\bin\Debug\net8.0\Cutter.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\refint\Cutter.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\Cutter.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\ConsoleApp2Sol\Cutter\obj\Debug\net8.0\ref\Cutter.dll

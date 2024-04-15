@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Cutter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Cutter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cutter.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cutter/1.0.0": {
+      "type": "project",
+      "path": "../Cutter/Cutter.csproj",
+      "msbuildProject": "../Cutter/Cutter.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Cutter >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vkrisz\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\ConsoleApp2Sol\\Cutter\\Cutter.csproj": {
+              "projectPath": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\ConsoleApp2Sol\\Cutter\\Cutter.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
