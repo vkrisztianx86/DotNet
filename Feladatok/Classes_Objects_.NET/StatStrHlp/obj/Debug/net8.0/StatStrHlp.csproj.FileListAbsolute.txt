@@ -1,0 +1,15 @@
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\bin\Debug\net8.0\StatStrHlp.exe
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\bin\Debug\net8.0\StatStrHlp.deps.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\bin\Debug\net8.0\StatStrHlp.runtimeconfig.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\bin\Debug\net8.0\StatStrHlp.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\bin\Debug\net8.0\StatStrHlp.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.AssemblyInfoInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.AssemblyInfo.cs
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.csproj.CoreCompileInputs.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.sourcelink.json
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\refint\StatStrHlp.dll
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.pdb
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\StatStrHlp.genruntimeconfig.cache
+C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\StatStrHlp\obj\Debug\net8.0\ref\StatStrHlp.dll

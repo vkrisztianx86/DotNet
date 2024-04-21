@@ -1,0 +1,15 @@
+C:\Demo\Osztalyos\Autonyilvantarto\bin\Debug\net6.0\Autonyilvantarto.exe
+C:\Demo\Osztalyos\Autonyilvantarto\bin\Debug\net6.0\Autonyilvantarto.deps.json
+C:\Demo\Osztalyos\Autonyilvantarto\bin\Debug\net6.0\Autonyilvantarto.runtimeconfig.json
+C:\Demo\Osztalyos\Autonyilvantarto\bin\Debug\net6.0\Autonyilvantarto.dll
+C:\Demo\Osztalyos\Autonyilvantarto\bin\Debug\net6.0\ref\Autonyilvantarto.dll
+C:\Demo\Osztalyos\Autonyilvantarto\bin\Debug\net6.0\Autonyilvantarto.pdb
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.csproj.AssemblyReference.cache
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.AssemblyInfoInputs.cache
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.AssemblyInfo.cs
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.csproj.CoreCompileInputs.cache
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.dll
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\ref\Autonyilvantarto.dll
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.pdb
+C:\Demo\Osztalyos\Autonyilvantarto\obj\Debug\net6.0\Autonyilvantarto.genruntimeconfig.cache

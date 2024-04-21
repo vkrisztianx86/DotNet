@@ -1,0 +1,15 @@
+C:\Demo\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.exe
+C:\Demo\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.deps.json
+C:\Demo\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.runtimeconfig.json
+C:\Demo\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.dll
+C:\Demo\Osztalyos\StatStrHlp\bin\Debug\net6.0\ref\StatStrHlp.dll
+C:\Demo\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.pdb
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.csproj.AssemblyReference.cache
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.AssemblyInfoInputs.cache
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.AssemblyInfo.cs
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.csproj.CoreCompileInputs.cache
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.dll
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\ref\StatStrHlp.dll
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.pdb
+C:\Demo\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.genruntimeconfig.cache
