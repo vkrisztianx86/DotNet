@@ -73,7 +73,9 @@ namespace Cutter
                 else
                 {
                     partsp[counter] = sp.Substring(0, sizep);
+                    //Console.WriteLine(sp);
                     sp = sp.Substring(sizep);
+                    //Console.WriteLine(sp);
                 }
                 counter++;
             }
