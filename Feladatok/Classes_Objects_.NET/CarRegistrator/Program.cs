@@ -8,7 +8,7 @@ a1.Go(3.4);
 a2.Go(9.5);
 a2.Go(7.5);
 
-Console.WriteLine(a1.AvgConsumption());
+
 Console.WriteLine(a1.AvgConsumption());
 Console.WriteLine(a2.AvgConsumption());
 
