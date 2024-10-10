@@ -1,15 +1,30 @@
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/bin/Debug/net8.0/Inheritance.exe
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/bin/Debug/net8.0/Inheritance.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Inheritance/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

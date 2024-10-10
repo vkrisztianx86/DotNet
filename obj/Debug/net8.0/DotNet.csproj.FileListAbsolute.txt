@@ -1,0 +1,10 @@
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/WinFormsAppKihivas3.nap.Form1.resources
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/WinFormsAppKihivasMegoldas4.nap.Form1.resources
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/WinFormsAppKihivasMegoldás3.nap.Form1.resources
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/WinBetuCiklus.Form1.resources
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/DotNet.csproj.GenerateResource.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfoInputs.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfo.cs
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/obj/Debug/net8.0/DotNet.sourcelink.json

@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vkrisz\\.nuget\\packages\\": {}
+    "/Users/krisztianvereczki/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\Inheritance\\Inheritance\\Inheritance.csproj",
-      "packagesPath": "C:\\Users\\vkrisz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vkrisz\\OneDrive\\Asztali gép\\C#\\Feladatok\\Inheritance\\Inheritance\\obj\\",
+      "projectPath": "/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/Inheritance.csproj",
+      "packagesPath": "/Users/krisztianvereczki/.nuget/packages/",
+      "outputPath": "/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vkrisz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/krisztianvereczki/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

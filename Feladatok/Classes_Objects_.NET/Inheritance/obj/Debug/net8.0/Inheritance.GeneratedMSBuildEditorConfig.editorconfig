@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Inheritance
-build_property.ProjectDir = C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Inheritance\Inheritance\
+build_property.ProjectDir = /Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/Inheritance/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

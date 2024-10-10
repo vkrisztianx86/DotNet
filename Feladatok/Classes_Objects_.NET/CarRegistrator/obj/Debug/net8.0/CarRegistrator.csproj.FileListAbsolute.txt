@@ -1,15 +1,30 @@
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\bin\Debug\net8.0\CarRegistrator.exe
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\bin\Debug\net8.0\CarRegistrator.deps.json
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\bin\Debug\net8.0\CarRegistrator.runtimeconfig.json
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\bin\Debug\net8.0\CarRegistrator.dll
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\bin\Debug\net8.0\CarRegistrator.pdb
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.AssemblyInfoInputs.cache
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.AssemblyInfo.cs
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.csproj.CoreCompileInputs.cache
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.sourcelink.json
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.dll
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\refint\CarRegistrator.dll
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.pdb
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\CarRegistrator.genruntimeconfig.cache
-C:\Users\vkrisz\OneDrive\Asztali gép\C#\Feladatok\Classes_Objects_.NET\CarRegistrator\obj\Debug\net8.0\ref\CarRegistrator.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.exe
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.deps.json
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.runtimeconfig.json
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.pdb
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.AssemblyInfoInputs.cache
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.AssemblyInfo.cs
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.csproj.CoreCompileInputs.cache
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.sourcelink.json
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/refint/CarRegistrator.dll
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.pdb
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.genruntimeconfig.cache
+C:/Users/vkrisz/OneDrive/Asztali gép/C#/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/ref/CarRegistrator.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.deps.json
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.runtimeconfig.json
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/bin/Debug/net8.0/CarRegistrator.pdb
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.AssemblyInfoInputs.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.AssemblyInfo.cs
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.csproj.CoreCompileInputs.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.sourcelink.json
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/refint/CarRegistrator.dll
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.pdb
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/CarRegistrator.genruntimeconfig.cache
+/Users/krisztianvereczki/dotnet/PC/DotNet/Feladatok/Classes_Objects_.NET/CarRegistrator/obj/Debug/net8.0/ref/CarRegistrator.dll
