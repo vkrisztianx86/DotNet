@@ -44,7 +44,7 @@
 
             foreach (Dolgozo dolgozo in Mindenki)
             {
-                ((IJelszo)dolgozo).Jelszo = "ures";
+                ((IJelszo)dolgozo).Jelszo = $"{char.ToLower(dolgozo.Nev[0])}ures";
             }
             Jelszo = "admin";
         }
@@ -123,6 +123,14 @@
             if (tipp == Jelszo)
             {
                 Belepett = true;
+                Console.WriteLine($"Belépett az alkalmazásba!");
+                Console.WriteLine($"A továbblépéshez nyomjon meg egy tetszőleges gombot!");
+                Console.ReadKey();
+            }
+            else{
+                Console.WriteLine("Jelszó nem megfelelő!");
+                Console.WriteLine($"A továbblépéshez nyomjon meg egy tetszőleges gombot!");          
+                Console.ReadKey();
             }
         }
 

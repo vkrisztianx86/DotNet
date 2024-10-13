@@ -12,7 +12,16 @@
             if (tipp == Jelszo)
             {
                 Belepett = true;
+                Console.WriteLine($"Belépett a {Nev} nevű dolgozó");
+                Console.WriteLine($"A továbblépéshez nyomjon meg egy tetszőleges gombot!");
+                Console.ReadKey();
             }
+            else{
+                Console.WriteLine($"Jelszó nem megfelelő a {Nev} nevű dolgozóhoz");
+                Console.WriteLine($"A továbblépéshez nyomjon meg egy tetszőleges gombot!");
+                Console.ReadKey();
+            }
+                
         }
 
         public virtual void Eredmeny() { }

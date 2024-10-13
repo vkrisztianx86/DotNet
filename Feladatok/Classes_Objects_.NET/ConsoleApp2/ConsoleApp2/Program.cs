@@ -13,6 +13,7 @@ do
     }
     string funk = Console.ReadLine();
     char funkc = funk.Length > 0 ? char.ToUpper(funk[0]) : 'X';
+    
 
     switch (funkc) //BOHFK
     {
@@ -33,8 +34,14 @@ do
             break;
         case 'K':
             kilep = true;
-            break;
+            break;     
+        case 'X':        
+            Console.WriteLine("Érvénytelen választás.");
+            Console.ReadKey();
+            break; // Corrected this line
         default:
+            Console.WriteLine("Kérem a kezdőbetűk közül válasszon!");
+            Console.ReadKey();
             break;
     }
 } while (!kilep);
