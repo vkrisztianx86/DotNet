@@ -26,15 +26,39 @@
             return eredmeny;
         }
 
-        public static int Szambekero(int limit)
+      public static int Szambekero(int limit)
         {
-            int eredmenyLimites;
+            int eredmenyLimites = 0;
             do
             {
-                eredmenyLimites = Szambekero();
+                if(eredmenyLimites < 4){
+                    eredmenyLimites = Szambekero();
+                }
+                else{
+                    eredmenyLimites = 4;
+                }
+                
             } while (eredmenyLimites > limit);
             return eredmenyLimites;
         }
 
+
     }
 }
+
+ /* public static int Szambekero(int limit)
+        {
+            int eredmenyLimites = 0;
+            do
+            {
+                if(eredmenyLimites < 4){
+                    eredmenyLimites = Szambekero();
+                }
+                else{
+                    eredmenyLimites = 4;
+                }
+                
+            } while (eredmenyLimites > limit);
+            return eredmenyLimites;
+        }
+ */

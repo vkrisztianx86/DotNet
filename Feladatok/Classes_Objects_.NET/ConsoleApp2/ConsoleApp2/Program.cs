@@ -30,7 +30,16 @@ do
             n.Zaras();
             break;
         case 'J':
-            n.Jegyeim();
+            try
+{
+    n.Jegyeim();
+}
+catch (Exception ex)
+{
+    Console.WriteLine("An error occurred while calling Jegyeim: " + ex.Message);
+    Console.ReadLine(); // Pause to allow the user to see the message
+}
+
             break;
         case 'K':
             kilep = true;

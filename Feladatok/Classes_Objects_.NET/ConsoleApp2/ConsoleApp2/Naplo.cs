@@ -134,39 +134,45 @@
             }
         }
 
-        private Dolgozo Kivalasztas(bool tanar, bool diak)
+   private Dolgozo Kivalasztas(bool tanar, bool diak)
+{
+    
+        if (tanar && diak)
         {
-            if (tanar && diak)
+            for (int i = 0; i < Mindenki.Count; i++)
             {
-                for (int i = 0; i < Mindenki.Count; i++)
-                {
-                    Console.WriteLine($"{i} - {Mindenki[i]}");
-                }
-                int kit = Segito.Szambekero(Mindenki.Count);
-                return Mindenki[kit];
+                Console.WriteLine($"{i} - {Mindenki[i]}");
             }
-
-            if (tanar)
-            {
-                for (int i = 0; i < TanarList.Count; i++)
-                {
-                    Console.WriteLine($"{i} - {TanarList[i]}");
-                }
-                int kit = Segito.Szambekero(TanarList.Count);
-                return TanarList[kit];
-            }
-
-            if (diak)
-            {
-                for (int i = 0; i < DiakList.Count; i++)
-                {
-                    Console.WriteLine($"{i} - {DiakList[i]}");
-                }
-                int kit = Segito.Szambekero(DiakList.Count);
-                return DiakList[kit];
-            }
-
-            return null;
+            int kit = Segito.Szambekero(Mindenki.Count);        
+            return Mindenki[kit];
         }
+
+        if (tanar)
+        {
+            for (int i = 0; i < TanarList.Count; i++)
+            {
+                Console.WriteLine($"{i} - {TanarList[i]}");
+            }
+            int kit = Segito.Szambekero(TanarList.Count);       
+            return TanarList[kit];
+        }
+
+        if (diak)
+        {
+            for (int i = 0; i < DiakList.Count; i++)
+            {
+                Console.WriteLine($"{i} - {DiakList[i]}");
+            }
+            int kit = Segito.Szambekero(DiakList.Count);      
+            return DiakList[kit];
+        }
+
+        return null;
     }
+    
 }
+
+}
+
+
+
